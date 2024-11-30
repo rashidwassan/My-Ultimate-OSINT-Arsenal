@@ -7,7 +7,6 @@ Welcome to **My Ultimate OSINT Arsenal**, a carefully curated collection of OSIN
 
 # 📖 Table of Contents
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [OSINT Categories](#osint-categories)
   - [Sock Puppets](#sock-puppets)
   - [Search Engines and Indexing Tools](#search-engines-and-indexing-tools)
@@ -26,6 +25,7 @@ Welcome to **My Ultimate OSINT Arsenal**, a carefully curated collection of OSIN
   - [Working with OSINT Tools](#working-with-osint-tools)
   - [Other Specialized Resources](#other-specialized-resources)
 - [Learning and Certification Resources](#learning-and-certification-resources)
+- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 - [Disclaimer](#disclaimer)
@@ -35,17 +35,6 @@ Welcome to **My Ultimate OSINT Arsenal**, a carefully curated collection of OSIN
 ## 🧐 Introduction
 
 Open-Source Intelligence (OSINT) is a discipline of gathering publicly available data from online sources to uncover valuable insights. This repository is your ultimate guide to tools, training, and techniques that will help you master OSINT.
-
----
-
-## 🚀 Getting Started & Contributing
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/rashidwassan/My-Ultimate-OSINT-Arsenal.git
-   ```
-2. Explore tools and resources under each category.
-3. Add your tools or resources by contributing to this repository!
 
 ---
 
@@ -233,6 +222,15 @@ The tools listed here are essential for gathering information during OSINT inves
 - **OSINT Fundamentals in One Video**: [TCM Security - OSINT](https://youtu.be/qwA6MmbeGNo?si=XprgFu92D2LpKNKv)
 
 ---
+
+## 🚀 Getting Started
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/rashidwassan/My-Ultimate-OSINT-Arsenal.git
+   ```
+2. Explore tools and resources under each category.
+3. Add your tools or resources by contributing to this repository!
 
 ## 🤝 Contributing
 
