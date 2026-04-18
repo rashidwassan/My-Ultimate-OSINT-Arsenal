@@ -157,6 +157,7 @@ These tools are invaluable for conducting research on websites, domains, and net
 - **SpyOnWeb**: [Investigate Website Data & Connections](https://spyonweb.com/)
 - **VirusTotal**: [Analyze Files, URLs, and Domains for Malware](https://www.virustotal.com/)
 - **Visual Ping**: [Monitor Website Changes](https://visualping.io/)
+- **Snaplert**: [Website Change Monitoring with Visual Diffs & AI Summaries](https://snaplert.com/)
 - **Back Link Watch**: [Monitor Backlinks to Websites](http://backlinkwatch.com/index.php)
 - **View DNS**: [DNS Lookup and Reverse Lookup](https://viewdns.info/)
 - **Pentest-Tools Subdomain Finder**: [Find Subdomains of a Domain](https://pentest-tools.com/information-gathering/find-subdomains-of-domain#)
