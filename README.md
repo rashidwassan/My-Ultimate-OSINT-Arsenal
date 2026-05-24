@@ -83,6 +83,7 @@ These tools enable users to gather in-depth data from various social media platf
 ## 🌍 Geospatial Intelligence (GEOINT)
 - **Google Earth**: [Google Earth Pro](https://earth.google.com/web/)
 - **OpenStreetMap**: [OSM](https://www.openstreetmap.org/)
+- **Phantom Tide**: [Restricted Airspace, Maritime, and Incident Map](https://phantom.labs.jamessawyer.co.uk/)
 - **EXIF Data Tools**: Various (e.g., [ExifTool](https://exiftool.org/))
 
 
