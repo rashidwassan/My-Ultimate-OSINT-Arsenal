@@ -67,6 +67,7 @@ These tools enable users to gather in-depth data from various social media platf
 - **Twitonomy**: [Detailed Twitter User Analytics](https://www.twitonomy.com/)
 - **Mentionmapp**: [Twitter Network Mapping](https://mentionmapp.com/)
 - **Tweetbeaver**: [Extract Data from Tweets](https://tweetbeaver.com/)
+- **Xquik**: [Independent X (Twitter) search, follower export, and monitoring API](https://github.com/Xquik-dev/x-twitter-scraper)
 - **Spoonbill.io**: [Twitter Data Extraction](http://spoonbill.io/)
 - **Tinfoleak**: [Deep Twitter Insights](https://tinfoleak.com/)
 - **TweetDeck**: [Twitter Account Management Tool](https://tweetdeck.com/)
