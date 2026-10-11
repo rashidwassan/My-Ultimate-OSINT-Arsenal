@@ -95,6 +95,7 @@ These tools are excellent for identifying usernames, their availability, and ass
 - **KnowEm**: [Social Media Username Availability Check](https://knowem.com/)
 - **Usersearch.org**: [OSINT Username Investigations](https://usersearch.org/)
 - **PeekYou**: [Discover Social Media Profiles](https://www.peekyou.com/)
+- **Consensus OSINT**: [Username Discovery with Enriched Results](https://github.com/OSINT-Experts-Society/Consensus-OSINT)
 - **Sherlock**: [Find Usernames Across Social Media](https://github.com/sherlock-project/sherlock)
 - **Social Bearing**: [Twitter Analysis & OSINT](https://socialbearing.com/)
 - **Twitonomy**: [Twitter User Insights](https://www.twitonomy.com/)
