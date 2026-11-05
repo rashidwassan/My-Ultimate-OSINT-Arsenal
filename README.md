@@ -74,6 +74,7 @@ These tools enable users to gather in-depth data from various social media platf
 - **InstaDP**: [Download Instagram Profile Picture](https://www.instadp.com/)
 - **ImgInn**: [Instagram Profile and Post Viewer](https://imginn.com/)
 - **Snapchat Maps**: [View Snapchat Locations](https://map.snapchat.com)
+- **SnapDataHub**: [Snapchat Profile and Spotlight Analytics](https://snapdatahub.com/)
 - **Sleeping Time**: [Analyze User Activity and Sleep Patterns](http://sleepingtime.org/)
 - **Wopita**: [Advanced Instagram and Facebook Search](https://wopita.com/)
 - **Sowdust Github - Facebook Search**: [Explore Facebook Profiles](https://sowdust.github.io/fb-search/)
